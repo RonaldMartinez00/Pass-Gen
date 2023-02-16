@@ -13,12 +13,12 @@ This app was created using only HTML, CSS, & JS. The purpose of this app is so t
 ### **Result**
 
 
-You can find the password generator app at [Password-generator]()
+You can find the password generator app at [Password-generator](https://github.com/RonaldMartinez00/Pass-Gen)
 
 ## **Completed Project**
-![](/passwordGenerator/Develop/assets/ss1.png)
-![](/passwordGenerator/Develop/assets/ss2.png)
-![](/passwordGenerator/Develop/assets/ss3.png)
+![](/assets/ss1.png)
+![](/assets/ss2.png)
+![](/assets/ss3.png)
 
 
 
